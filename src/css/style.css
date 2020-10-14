@@ -1,3 +1,14 @@
 body {
     text-align: center;
 }
+
+#social-media-copyright a {
+    font-size: 26px;
+    margin: 0 10px;
+    color: hsl(223, 87%, 63%);
+    text-decoration: none;
+}
+
+#social-media-copyright a:hover {
+    color: hsl(223, 100%, 88%);
+}
