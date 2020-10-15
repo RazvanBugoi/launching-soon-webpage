@@ -7,6 +7,10 @@ body {
     color: hsl(0, 0%, 59%);
 }
 
+#soon {
+    color: hsl(209, 33%, 12%);
+}
+
 #social-media-copyright a {
     font-size: 26px;
     margin: 0 10px;
