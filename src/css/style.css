@@ -3,6 +3,10 @@ body {
     font-family: 'Libre Franklin', sans-serif;
 }
 
+#launching {
+    color: hsl(0, 0%, 59%);
+}
+
 #social-media-copyright a {
     font-size: 26px;
     margin: 0 10px;
