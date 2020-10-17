@@ -13,8 +13,14 @@ body {
     color: hsl(209, 33%, 12%);
 }
 
+#illustration-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
 #illustration {
-    max-width: 600px;
+    margin: 0 auto;
+    max-width: 720px;
     width: 100%;
 }
 
