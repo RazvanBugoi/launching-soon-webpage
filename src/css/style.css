@@ -40,7 +40,7 @@ body {
 }
 
 #error-message {
-    display: block;
+    display: none;
     margin-top: 1em;
     color: hsl(354, 100%, 66%);
 }
