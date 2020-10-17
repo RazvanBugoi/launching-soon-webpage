@@ -19,8 +19,8 @@ body {
 }
 
 #input-field {
-    margin-top: 1.5em;
-    margin-bottom: 3em;
+    margin: 0 auto;
+    max-width: 720px;
 }
 
 #illustration-container {
