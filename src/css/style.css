@@ -29,6 +29,10 @@ body {
     margin: 0 auto;
 }
 
+#notify-me {
+    background-color: hsl(223, 87%, 63%);
+}
+
 #email-address,
 #notify-me {
     border-radius: 20px;
