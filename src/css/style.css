@@ -45,6 +45,10 @@ body {
     width: 100%;
 }
 
+#social-media-copyright {
+    margin-top: 3em;
+}
+
 #social-media-copyright a {
     font-size: 26px;
     margin: 0 10px;
