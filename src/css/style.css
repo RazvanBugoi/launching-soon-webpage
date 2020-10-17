@@ -3,6 +3,11 @@ body {
     font-family: 'Libre Franklin', sans-serif;
 }
 
+#logo {
+    margin-top: 5em;
+    margin-bottom: 1.5em;
+}
+
 #launching {
     font-weight: 300;
     color: hsl(0, 0%, 59%);
@@ -17,6 +22,17 @@ body {
     max-width: 1440px;
     margin: 0 auto;
 }
+
+
+/* @media all and (max-width: 375px) {
+    #illustration-container {
+        max-width: 375px;
+    }
+    #illustration {
+        max-width: 187.5px;
+        width: 100%;
+    }
+} */
 
 #illustration {
     margin: 0 auto;
