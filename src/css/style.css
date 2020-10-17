@@ -29,6 +29,11 @@ body {
     margin: 0 auto;
 }
 
+#email-address,
+#notify-me {
+    border-radius: 20px;
+}
+
 
 /* @media all and (max-width: 375px) {
     #illustration-container {
