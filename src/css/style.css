@@ -32,8 +32,13 @@ body {
     background-color: hsl(223, 87%, 63%);
     border: none;
     color: #fff;
-    width: 10em;
+    width: 20%;
     height: 2.5em;
+}
+
+#email-address {
+    width: 50%;
+    height: 2.3em;
 }
 
 #email-address,
