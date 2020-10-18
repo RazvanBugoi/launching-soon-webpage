@@ -21,7 +21,6 @@ body {
 #input-field {
     margin: 0 auto;
     max-width: 720px;
-    padding-bottom: 3em;
 }
 
 #illustration-container {
@@ -40,6 +39,7 @@ body {
 #email-address,
 #notify-me {
     border-radius: 20px;
+    margin: 10px 20px 60px 10px;
 }
 
 #error-message {
