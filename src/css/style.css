@@ -39,6 +39,8 @@ body {
 #email-address {
     width: 50%;
     height: 2.3em;
+    color: hsl(0, 0%, 59%);
+    border: 1px solid hsl(0, 0%, 59%);
 }
 
 #email-address,
