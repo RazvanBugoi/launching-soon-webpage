@@ -36,6 +36,10 @@ body {
     height: 2.5em;
 }
 
+#notify-me:hover {
+    background-color: hsl(223, 100%, 88%);
+}
+
 #email-address {
     width: 50%;
     height: 2.3em;
