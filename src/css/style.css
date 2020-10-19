@@ -43,6 +43,10 @@ body {
     border: 1px solid hsl(0, 0%, 59%);
 }
 
+#email-address:focus {
+    outline: none;
+}
+
 #email-address,
 #notify-me {
     border-radius: 20px;
