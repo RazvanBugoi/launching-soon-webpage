@@ -46,12 +46,12 @@ body {
 #email-address,
 #notify-me {
     border-radius: 20px;
-    margin: 10px 20px 60px 10px;
+    margin: 10px 20px 30px 10px;
 }
 
 #error-message {
     display: none;
-    margin-top: 1em;
+    margin-bottom: 1.5em;
     color: hsl(354, 100%, 66%);
 }
 
