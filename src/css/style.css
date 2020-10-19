@@ -34,6 +34,7 @@ body {
     color: #fff;
     width: 20%;
     height: 2.5em;
+    outline: none;
 }
 
 #notify-me:hover {
