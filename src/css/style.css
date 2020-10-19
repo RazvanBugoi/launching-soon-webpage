@@ -38,6 +38,7 @@ body {
 
 #notify-me:hover {
     background-color: hsl(223, 100%, 88%);
+    cursor: pointer;
 }
 
 #email-address {
