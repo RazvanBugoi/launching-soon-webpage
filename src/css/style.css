@@ -51,6 +51,10 @@ body {
     border: 1px solid #C2D3FF;
 }
 
+#email-address::placeholder {
+    color: #C2D3FF;
+}
+
 #email-address:focus {
     outline: none;
 }
