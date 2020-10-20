@@ -38,7 +38,7 @@ body {
 }
 
 #notify-me:hover {
-    background-color: hsl(223, 100%, 88%);
+    background-color: hsl(223, 100%, 70%);
     cursor: pointer;
 }
 
