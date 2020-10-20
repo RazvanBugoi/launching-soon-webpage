@@ -47,8 +47,8 @@ body {
     padding-left: 2em;
     width: 50%;
     height: 2.3em;
-    color: hsl(0, 0%, 59%);
-    border: 1px solid hsl(0, 0%, 59%);
+    color: #C2D3FF;
+    border: 1px solid #C2D3FF;
 }
 
 #email-address:focus {
